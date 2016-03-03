@@ -153,6 +153,8 @@
 		1E720F00194A548F00E536A5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0730;
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = "áSoft";
 				TargetAttributes = {
@@ -397,6 +399,7 @@
 				1E720F26194A548F00E536A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1E720F27194A548F00E536A5 /* Build configuration list for PBXNativeTarget "ReverseStringSwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +408,7 @@
 				1E720F29194A548F00E536A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
